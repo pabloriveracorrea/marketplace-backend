@@ -1,4 +1,4 @@
-# marketplace-backend
+
 # Backend - Marketplace
 
 Este es el backend del proyecto Marketplace. Proporciona una API para gestionar la base de datos y la lógica del negocio.
